@@ -11,6 +11,8 @@ SVM (Sin GridSearch),Benigno,87
 SVM (Sin GridSearch),Maligno,73
 SVM (Con GridSearch),Benigno,86
 SVM (Con GridSearch),Maligno,72
+SVM (K Fold),Benigno,85
+SVM (K Fold),Maligno,88
 Regresión Logística,Benigno,84
 Regresión Logística,Maligno,76
 Naive Bayes,Benigno,81
