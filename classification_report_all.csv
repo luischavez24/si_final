@@ -1,0 +1,19 @@
+Modelo,Severidad,Precisión
+Árbol de decisión,Benigno,76
+Árbol de decisión,Maligno,73
+Bosques aleatorios,Benigno,80
+Bosques aleatorios,Maligno,75
+KNN (k=25),Benigno,86
+KNN (k=25),Maligno,72
+KNN (k=10),Benigno,76
+KNN (k=10),Maligno,74
+SVM (Sin GridSearch),Benigno,87
+SVM (Sin GridSearch),Maligno,73
+SVM (Con GridSearch),Benigno,86
+SVM (Con GridSearch),Maligno,72
+Regresión Logística,Benigno,84
+Regresión Logística,Maligno,76
+Naive Bayes,Benigno,81
+Naive Bayes,Maligno,71
+Red neuronal con Keras,Benigno,85
+Red neuronal con Keras,Maligno,77
